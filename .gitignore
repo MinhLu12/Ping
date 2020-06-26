@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+.idea/.idea.NetworkApplications/riderModule.iml
+.idea/.idea.NetworkApplications/.idea/contentModel.xml
+.idea/.idea.NetworkApplications/.idea/encodings.xml
+.idea/.idea.NetworkApplications/.idea/indexLayout.xml
+.idea/.idea.NetworkApplications/.idea/modules.xml
+.idea/.idea.NetworkApplications/.idea/projectSettingsUpdater.xml
+.idea/.idea.NetworkApplications/.idea/vcs.xml
